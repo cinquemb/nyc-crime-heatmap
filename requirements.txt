@@ -50,7 +50,7 @@ python-memcached==1.48
 python-openid==2.2.5
 pytz==2012j
 readline==6.2.4.1
-requests==1.1.0
+requests==2.20.0
 sendgrid==0.1.3
 simplejson==2.3.2
 six==1.2.0
