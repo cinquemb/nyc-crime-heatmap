@@ -1,4 +1,4 @@
-Django==1.4.2
+Django==1.11.29
 MarkupSafe==0.15
 PIL==1.1.7
 Pillow==1.7.8
