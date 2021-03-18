@@ -1,7 +1,7 @@
 Django==1.4.2
 MarkupSafe==0.15
 PIL==1.1.7
-Pillow==1.7.8
+Pillow==8.1.1
 South==0.7.6
 URLObject==2.3.4
 amqp==1.0.11
