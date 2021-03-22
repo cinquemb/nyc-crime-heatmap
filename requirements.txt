@@ -37,7 +37,7 @@ ipython==0.13
 iso8601==0.1.4
 kombu==2.5.10
 localtunnel==0.5.8
-lxml==3.0.1
+lxml==4.6.3
 -e git+https://github.com/agriffis/mixpanel-celery.git@0d164c374c850a415865ae934e004c9341ef2eeb#egg=mixpanel_celery-dev
 mock==0.8.0
 oauth2==1.5.211
