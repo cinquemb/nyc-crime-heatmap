@@ -10,7 +10,7 @@ argparse==1.2.1
 -e git+https://github.com/balanced/balanced-python.git@ca445bbd457240987c134321799a7126d28a19a8#egg=balanced-dev
 billiard==2.7.3.28
 boto==2.7.0
-celery==3.0.19
+celery==5.2.2
 certifi==0.0.8
 chardet==1.0.1
 cssselect==0.7.1
